@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : You can reach me by following my github nadzirarifqi and my instagram @nadzirarifqi
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love eggs so much
 
 <!---
 nadzirarifqi/nadzirarifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
